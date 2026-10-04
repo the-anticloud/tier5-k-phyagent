@@ -1,0 +1,28 @@
+# Upstream Provenance
+
+**Project:** `K_PHYAGENT`  
+**Tier:** TIER_5_WORLD_NEURO_EMBODIED  
+**Identity:** Upstream `Genesis-Embodied-AI/Genesis` @ `de8da45c91af` (Apache-2.0)
+
+## Recorded identity
+
+| Fact | Value |
+| --- | --- |
+| Upstream | `Genesis-Embodied-AI/Genesis` |
+| Commit | `de8da45c91af86bf236e4c4dad78b85d9b996f70` |
+| Upstream licence | Apache-2.0 |
+| Licence class | permissive |
+| Clone size | 222.37 MB |
+| Ledger | 0 blocks, chain verified |
+| Current TRL | NOT YET MEASURED |
+| Post-optimisation TRL | NOT YET MEASURED |
+| II budget cap | 1000.0 IIU |
+| Verified upstream edits | 1 |
+
+## Obligation
+
+`K_PHYAGENT` is vendored under Apache-2.0 (permissive). Any Anticloud edit to
+the vendored tree is a derivative work and is tracked in
+`anticloud-edits.json`; the notice of changes is at the project `NOTICE.md`.
+Where the licence class is `unknown`, no edit may be applied until the
+licence is identified, because the absence of a licence is not a grant.

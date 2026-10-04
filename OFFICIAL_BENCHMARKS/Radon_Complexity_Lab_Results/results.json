@@ -1,0 +1,20 @@
+{
+  "benchmark": "Radon_Complexity_Lab_Results",
+  "project": "K_PHYAGENT",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://radon.readthedocs.io/",
+  "results": {
+    "framework": "Radon \u2014 Cyclomatic Complexity & Maintainability Index",
+    "source": "https://radon.readthedocs.io/",
+    "files_analyzed": 10,
+    "average_complexity": {
+      "grade": "A",
+      "score": 4.452173913043478
+    },
+    "complexity_grade": "A",
+    "complexity_score": 4.452173913043478,
+    "status": "PASS",
+    "raw_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\constants.py\n    C 17:0 IntEnum - A (2)\n    C 174:0 backend - A (2)\n    C 186:0 IMAGE_TYPE - A (2)\n    M 18:4 IntEnum.__repr__ - A (1)\n    M 21:4 IntEnum.__format__ - A (1)\n    C 26:0 GEOM_TYPE - A (1)\n    C 39:0 JOINT_TYPE - A (1)\n    C 47:0 EQUALITY_TYPE - A (1)\n    C 53:0 CTRL_MODE - A (1)\n    C 61:0 integrator - A (1)\n    C 68:0 constraint_solver - A (1)\n    C 74:0 friction_cone - A (1)\n    C 92:0 contact_resolution - A (1)\n    C 121:0 broadphase_traversal - A (1)\n    C 157:0 link_ref_frame - A (1)\n    M 181:4 backend.__format__ - A (1)\n    M 192:4 IMAGE_TYPE.__format__ - A (1)\n    C 197:0 PARA_LEVEL - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\datatypes.py\n    M 79:4 List.__repr__colorized__ - C (14)\n    M 63:4 List._repr_brief - B (6)\n    C 19:0 List - A (4)\n    M 27:4 List.__get_pydantic_core_schema__ - A (2)\n    M 42:4 List.__getitem__ - A (2)\n    M 53:4 List._repr_elem_colorized - A (2)\n    M 37:4 List.__getitem__ - A (1)\n    M 40:4 List.__getitem__ - A (1)\n    M 48:4 List._repr_elem - A (1)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\repr_base.py\n    M 16:4 RBC.__repr_name__ - B (7)\n    M 51:4 RBC.__repr__colorized__ - B (7)\n    C 8:0 RBC - A (4)\n    M 44:4 RBC.__repr__ - A (4)\n    M 36:4 RBC._repr_briefer - A (1)\n    M 39:4 RBC._repr_brief - A (1)\n    M 107:4 RBC.__format__ - A (1)\n",
+    "mi_output": "E:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\constants.py - A (100.00)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\datatypes.py - A (44.91)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\repr_base.py - A (64.27)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_NEURO_EMBODIED\\K_PHYAGENT\\UPSTREAM\\genesis\\styles.py - A (44.30)\nE:\\fenta\\Downloads\\The Anticloud\\TIER_5_WORLD_"
+  }
+}
